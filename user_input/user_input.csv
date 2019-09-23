@@ -1,0 +1,2 @@
+snp_id,gene_exp_name,snp_file_path,gene_exp_file_path
+rs6040355,MIR1302-11,Data/example.vcf,Data/gene_exp.txt

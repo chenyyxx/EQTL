@@ -1,0 +1,15 @@
+row: gene
+column: sample
+
+example: the first 10 rows and 5 columns
+
+#1.2
+56202   11688
+Name    Description     GTEX-1117F-0226-SM-5GZZ7        GTEX-111CU-1826-SM-5GZYN	GTEX-111FC-0226-SM-5N9B8
+ENSG00000223972.4       DDX11L1 3       4       1
+ENSG00000227232.4       WASH7P  616     395     826
+ENSG00000243485.2       MIR1302-11      2       1       1
+ENSG00000237613.2       FAM138A 1       0       1
+ENSG00000268020.2       OR4G4P  0       0       0
+ENSG00000240361.1       OR4G11P 0       2       2
+ENSG00000186092.4       OR4F5   0       0       0
